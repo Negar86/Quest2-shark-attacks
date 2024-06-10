@@ -1,7 +1,10 @@
-## Shark Attacks
 ![image](https://github.com/Negar86/Quest2-shark-attacks/assets/160590005/30f05237-43a6-4cb3-b998-d46fdd183ce7)
+
+## Shark Attacks:
 In this project, we utilize the shark attack dataset and use Python to clean and explore the data, validate our hypotheses, and extract meaningful insights.
-Hypotheses:
+
+---
+### Hypotheses:
 - <b>Hypothesis 1:</b>
 Shark attacks tend to happen in particular locations and during specific times of the year (seasons).
 - <b>Hypothesis 2:</b>
